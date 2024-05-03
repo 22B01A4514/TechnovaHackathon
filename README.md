@@ -1,1 +1,1 @@
-Disease Prediction Using Machine Learning
+Disease Prediction Using Machine Learning,Deep learning,Data Analysis.
